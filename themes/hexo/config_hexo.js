@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['欢迎来到我的地盘', '这是一个温暖的小屋', '期待与您邂逅💗', ], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['欢迎来到我的地盘', '这是一个温暖的小屋', '期待与您的邂逅💗', ], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
   HOME_NAV_BACKGROUND_IMG_FIXED: true, // 首页背景图滚动时是否固定，true 则滚动时图片不懂； false则随鼠标滚动
